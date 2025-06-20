@@ -1,5 +1,5 @@
 # Dosa
 
 * Dosa Flour
-* Ligt oil
+* Light oil
 
